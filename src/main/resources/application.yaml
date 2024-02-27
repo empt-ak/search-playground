@@ -1,0 +1,9 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: validate
+  application:
+    name: lucene-demo
+
+app:
+  mismatch-distance: 2
